@@ -37,7 +37,7 @@ export default function Header() {
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <Link
-                  href="https://blogpage-weld.vercel.app/"
+                  href="https://blogpage-arya.vercel.app/"
                   className="font-medium text-white hover:bg-gray-800 bg-gray-700 btn-sm flex items-center transition duration-150 ease-in-out"
                 >
                   Blogs
